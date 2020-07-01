@@ -8,7 +8,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `Cliquer_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/claud10cv/Cliquer.git (revision: `4d74dfd2e7b6583345f06be7de5e2c569ecffec3`)
+* git repository: https://github.com/claud10cv/Cliquer.git (revision: `a91662c730901b572af8e46d3241f80f1cfbc9c8`)
 
 ## Platforms
 
