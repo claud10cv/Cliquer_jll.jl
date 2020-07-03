@@ -1,81 +1,81 @@
 [[Cliquer]]
 arch = "aarch64"
-git-tree-sha1 = "82e3e97aca4f76f9e8753cbe60994a53420dca49"
+git-tree-sha1 = "e5b89041a92c49487a1198421363a8cec5f8d3dc"
 libc = "glibc"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "5124e0ae56713bdf31176323bf804cad000b12fdbcd9fbf20b0d9aeeb42a3259"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "a093416c1889973e00f1540c90d59165b12c791ebad0c42fc15933c6e47cf85c"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.aarch64-linux-gnu.tar.gz"
 [[Cliquer]]
 arch = "aarch64"
-git-tree-sha1 = "a8b03a1828428f93debb11e013a34850d78a23b3"
+git-tree-sha1 = "c0a0a786d5c0c18e78207533638bacc4763e50f3"
 libc = "musl"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "368f82d6237f77a34e8af82937b392900d6d174c9f5f006546b7fd1a0113be6c"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.aarch64-linux-musl.tar.gz"
+    sha256 = "4137613df16a70f83a5eb297e377ff064959ebc7175a420bc4d89a6f3453e891"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.aarch64-linux-musl.tar.gz"
 [[Cliquer]]
 arch = "armv7l"
-git-tree-sha1 = "a7dbf49d926c493f6c9e74df23d28b709034c856"
+git-tree-sha1 = "55083b9da2b0e759d4102a36c8822f112f17e668"
 libc = "glibc"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "fe5aa7acf2255d11d083e6d4d33aeb284d2196317c38717763f849a1f59f2f77"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "51caa010bae5b7f430bea789758a3b23f9bd473437e0c7bf1e70f7f38abd85db"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.armv7l-linux-gnueabihf.tar.gz"
 [[Cliquer]]
 arch = "armv7l"
-git-tree-sha1 = "d58fc264f9f0dd7368b2c5870ae64edb211deaf2"
+git-tree-sha1 = "50ec93a5f29948fc2171c8a9b1d5872d797d08c4"
 libc = "musl"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "056740db13711b7dab805dcb10982659c77fbe65eeea92f68e1b0325da46032b"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "29eb9ddd485c3144794c23c5c7c769b524f03d3c6f3dd486be9ed0a8525f95c5"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.armv7l-linux-musleabihf.tar.gz"
 [[Cliquer]]
 arch = "i686"
-git-tree-sha1 = "3eea7fe671ffae19cccda6181f24a711dd10b25f"
+git-tree-sha1 = "9b1b586fd9544344eb1fc6bd54f759a9c210ce4b"
 libc = "glibc"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "629e0f1067c75703cd60cb4d75ccaa073ed66888f1aa05e41e5b8403cf9a2b2f"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.i686-linux-gnu.tar.gz"
+    sha256 = "6b0bba6f92829fd0bc9520b4adc602a87a0d3acbb733921037c3721d8ecbd5fb"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.i686-linux-gnu.tar.gz"
 [[Cliquer]]
 arch = "i686"
-git-tree-sha1 = "6f48884f3ee7be88c1a3b687186ba7e53521af75"
+git-tree-sha1 = "417df042776d04434a0d255e1c6119c713f15631"
 libc = "musl"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "55d7aeb48ce0fc13f0d479fe718f86dc8ed26e6abcd4cadf02a8d229b5c33caa"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.i686-linux-musl.tar.gz"
+    sha256 = "39167618f7c93691a8bb9dffef8defd66cc23729b7e192d1dad33053e27fff6b"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.i686-linux-musl.tar.gz"
 [[Cliquer]]
 arch = "powerpc64le"
-git-tree-sha1 = "65119d451d940ae5de44b8c56a8f26699d823ec8"
+git-tree-sha1 = "f956eafbbd5b85f35287ad38faacb622f61079e5"
 libc = "glibc"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "aa36374eb5d565bdeb2608358e64d9b33ea6491f35e32f12181eb0ce32fe91eb"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a4844cec89abffd63a12b217508ceebb05f5c8b9438c9d91a8cbfff0259f28ee"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.powerpc64le-linux-gnu.tar.gz"
 [[Cliquer]]
 arch = "x86_64"
-git-tree-sha1 = "f9826f15fcef070689084371d03a6c152b156abf"
+git-tree-sha1 = "9b12cb45f996762dcf49f3ab2793b8484dc72b4a"
 libc = "glibc"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "77a733e3d865b196dfab86089925d55ab742b54b1e3afdee32643300a1cac78d"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "a6e51d2cdb7c26b0511c5e9d9adddac183b10c5ef13dd9695d695802087cc8b5"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.x86_64-linux-gnu.tar.gz"
 [[Cliquer]]
 arch = "x86_64"
-git-tree-sha1 = "07f56b25e9604fdffb411717fdbe163c484719cd"
+git-tree-sha1 = "f2e9c9d8550cdf0ccf4c1acef99669321277c0be"
 libc = "musl"
 os = "linux"
 
     [[Cliquer.download]]
-    sha256 = "e240969b69461d745ab41f328e73c2ff6ae55d7ed5aa1a3f0e4ebb08637ec125"
-    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.1+0/Cliquer.v1.21.1.x86_64-linux-musl.tar.gz"
+    sha256 = "b25c3d706f7cb03ef6668be6b9e294b8a933139ce806bc70f745373ef6ec9cad"
+    url = "https://github.com/claud10cv/Cliquer_jll.jl/releases/download/Cliquer-v1.21.2+0/Cliquer.v1.21.2.x86_64-linux-musl.tar.gz"
